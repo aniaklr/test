@@ -31,5 +31,6 @@ Proin rhoncus odio a fringilla consectetur. Proin gravida dolor vel purus finibu
 :-------:|:--------:|:-------------:
  Jajka   |12345     |34
 
-![jez](https://ocdn.eu/images/pulscms/ZmY7MDA_/f1644943cb703ed6f01da4aa78141b75.jpg)
+![jez](https://ocdn.eu/images/pulscms/ZmY7MDA_/f1644943cb703ed6f01da4aa78141b75.jpg)  
+
 *źródło* [Donald](http://www.donald.pl/)
