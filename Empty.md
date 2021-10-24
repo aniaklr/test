@@ -4,9 +4,15 @@ Lorem Ipsum
 ## to je mały heder 1.1 ##
 Lorem ipsum *dolor* sit amet, consectetur adipiscing elit.   
 Ut consectetur sodales lacus, vitae euismod ipsum pharetra nec.  
+Cytat:
+>ojojojojoj 
 ## to je mały heder 1.2 ##
 In ornare **interdum** est, id pulvinar dolor pulvinar eget.   
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;   
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;  
+Kod:
+```c
+printf("Hello World");
+```
 ## to je mały heder 1.3 ##
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
 ![jamnik](jamnik.jpg)
