@@ -21,7 +21,8 @@ Kod:
 printf("Hello World");
 ```
 ## Sub-header 3 ##
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.  
+
 ![jamnik](jamnik.jpg)
 *źródło* [Onet](http://www.onet.pl/)
 # Header 2 #  
