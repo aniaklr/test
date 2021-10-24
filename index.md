@@ -29,6 +29,7 @@ Proin rhoncus odio a fringilla consectetur. Proin gravida dolor vel purus finibu
  Zakupy | Cena | Ilość sztuk
  -------|------|-------------
  Krzesło|12345 |34
+ 
  - [Lorem Ipsum](#lorem-ipsum)
 
 ![jez](https://ocdn.eu/images/pulscms/ZmY7MDA_/f1644943cb703ed6f01da4aa78141b75.jpg)
