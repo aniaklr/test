@@ -23,6 +23,27 @@ Proin rhoncus odio a fringilla consectetur. Proin gravida dolor vel purus finibu
  Zakupy | Cena | Ilość sztuk
  -------|------|-------------
  Krzesło|12345 |34
- 
+ - [Lorem Ipsum](#lorem-ipsum)
+- [Lorem Ipsum](#lorem-ipsum)
+- [to je heder 1](#to-je-heder-1)
+  - [to je mały heder 1.1](#to-je-mały-heder-11)
+  - [to je mały heder 1.2](#to-je-mały-heder-12)
+  - [to je mały heder 1.3](#to-je-mały-heder-13)
+- [to je heder 2 #](#to-je-heder-2-)
+
 ![jez](https://ocdn.eu/images/pulscms/ZmY7MDA_/f1644943cb703ed6f01da4aa78141b75.jpg)
 *źródło* [Donald](http://www.donald.pl/)
+
+- [Lorem Ipsum](#lorem-ipsum)
+- [to je heder 1](#to-je-heder-1)
+  - [to je mały heder 1.1](#to-je-mały-heder-11)
+  - [to je mały heder 1.2](#to-je-mały-heder-12)
+  - [to je mały heder 1.3](#to-je-mały-heder-13)
+- [to je heder 2 #](#to-je-heder-2-)
+
+- [Lorem Ipsum](#lorem-ipsum)
+- [to je heder 1](#to-je-heder-1)
+  - [to je mały heder 1.1](#to-je-mały-heder-11)
+  - [to je mały heder 1.2](#to-je-mały-heder-12)
+  - [to je mały heder 1.3](#to-je-mały-heder-13)
+- [to je heder 2 #](#to-je-heder-2-)
